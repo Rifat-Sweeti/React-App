@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.28ab3772.css",
+    "main.js": "/React-App/static/js/main.e1f0c8c4.js",
+    "static/js/488.9c92ff38.chunk.js": "/React-App/static/js/488.9c92ff38.chunk.js",
+    "static/media/Intersect.png": "/React-App/static/media/Intersect.71cdcfef8a7457ef973c.png",
+    "static/media/Mask group.png": "/React-App/static/media/Mask group.791d41fbc7bcf7888062.png",
+    "static/media/image 14.png": "/React-App/static/media/image 14.f93380a79bd199359585.png",
+    "static/media/pngwing4.png": "/React-App/static/media/pngwing4.1080ad813739651c9555.png",
+    "static/media/pngwing6.png": "/React-App/static/media/pngwing6.cf4767d8d53765719850.png",
+    "static/media/pngwing3.png": "/React-App/static/media/pngwing3.082bab7e09f8811996bf.png",
+    "index.html": "/React-App/index.html",
+    "main.28ab3772.css.map": "/React-App/static/css/main.28ab3772.css.map",
+    "main.e1f0c8c4.js.map": "/React-App/static/js/main.e1f0c8c4.js.map",
+    "488.9c92ff38.chunk.js.map": "/React-App/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ab3772.css",
+    "static/js/main.e1f0c8c4.js"
+  ]
+}
