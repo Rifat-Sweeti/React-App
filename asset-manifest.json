@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/React-App/static/css/main.28ab3772.css",
-    "main.js": "/React-App/static/js/main.e1f0c8c4.js",
+    "main.css": "/React-App/static/css/main.741e0992.css",
+    "main.js": "/React-App/static/js/main.ac61e051.js",
     "static/js/488.9c92ff38.chunk.js": "/React-App/static/js/488.9c92ff38.chunk.js",
+    "static/media/EggSalad.png": "/React-App/static/media/EggSalad.01758fd4e660aed4ab64.png",
     "static/media/Intersect.png": "/React-App/static/media/Intersect.71cdcfef8a7457ef973c.png",
+    "static/media/Maskgroup1.png": "/React-App/static/media/Maskgroup1.9a094405ce1c312b2733.png",
+    "static/media/Fattoushsalad.png": "/React-App/static/media/Fattoushsalad.b66067b216f79552d970.png",
+    "static/media/Vegetablesalad.png": "/React-App/static/media/Vegetablesalad.103894d0c5c7238c5ab5.png",
     "static/media/Mask group.png": "/React-App/static/media/Mask group.791d41fbc7bcf7888062.png",
     "static/media/image 14.png": "/React-App/static/media/image 14.f93380a79bd199359585.png",
     "static/media/pngwing4.png": "/React-App/static/media/pngwing4.1080ad813739651c9555.png",
     "static/media/pngwing6.png": "/React-App/static/media/pngwing6.cf4767d8d53765719850.png",
     "static/media/pngwing3.png": "/React-App/static/media/pngwing3.082bab7e09f8811996bf.png",
+    "static/media/Maskgroup3.png": "/React-App/static/media/Maskgroup3.26123cbeb8ac358aa941.png",
+    "static/media/Maskgroup2.png": "/React-App/static/media/Maskgroup2.b833652677fb365bcc8b.png",
     "index.html": "/React-App/index.html",
-    "main.28ab3772.css.map": "/React-App/static/css/main.28ab3772.css.map",
-    "main.e1f0c8c4.js.map": "/React-App/static/js/main.e1f0c8c4.js.map",
+    "main.741e0992.css.map": "/React-App/static/css/main.741e0992.css.map",
+    "main.ac61e051.js.map": "/React-App/static/js/main.ac61e051.js.map",
     "488.9c92ff38.chunk.js.map": "/React-App/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28ab3772.css",
-    "static/js/main.e1f0c8c4.js"
+    "static/css/main.741e0992.css",
+    "static/js/main.ac61e051.js"
   ]
 }
