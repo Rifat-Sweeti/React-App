@@ -16,12 +16,7 @@ const Navbar = () => {
         <div className="navbar_div">
         <li><a href="#contact" className="navbar-a"><FaSearch /></a></li>
         <li><a href="#contact" className="navbar-a"><IoBagCheckOutline /></a></li>
-        <a class="fancy" href="#">
-          <span class="top-key"></span>
-          <span class="text">Contact</span>
-          <span class="bottom-key-1"></span>
-          <span class="bottom-key-2"></span>
-        </a>
+        <button className="navbar_button">Contact Us</button>
         </div>
       </ul>
     </nav>

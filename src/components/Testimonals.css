@@ -1,0 +1,97 @@
+.testimonials-section {
+    background-color: #fcfcfc;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonials-container {
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    gap: 50px;
+    align-items: center;
+}
+
+.chef-image {
+    position: relative;
+    flex: 1;
+}
+
+.chef-photo {
+    width: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.chef-tag {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 8px 15px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.testimonial-content {
+    flex: 1;
+}
+
+.testimonial-heading {
+    color: #ff5c5c;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.testimonial-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.customer-feedback {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.customer-profile {
+    display: flex;
+    gap: -10px;
+}
+
+.customer-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    object-fit: cover;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.feedback-text p {
+    font-size: 14px;
+    color: #555;
+    margin: 0;
+}
+
+.feedback-text span {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}

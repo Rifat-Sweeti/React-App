@@ -19,7 +19,6 @@ const Hero = () => {
                 </div>
             </div>
             <div class="image-container">
-                <div class="highlight">Hot spicy Food</div>
                 <div className="main-image">
                     <div className="circle">
                         <img src={intersectImage} alt="Intersect" />

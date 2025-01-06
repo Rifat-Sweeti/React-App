@@ -56,18 +56,6 @@ button {
     text-align: center;
 }
 
-.highlight {
-    position: absolute;
-    top: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #ff4444;
-    color: white;
-    padding: 5px 10px;
-    font-size: 0.9rem;
-    border-radius: 20px;
-}
-
 .main-image {
     position: relative;
     width: 300px;
@@ -81,23 +69,21 @@ button {
     height: 300px;
     border-radius: 50%;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
 }
 
 .circle img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 102px;
+    right: 50px;
 }
 
 
 .food-cards {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     margin-top: 20px;
 }
 
@@ -123,8 +109,12 @@ button {
 
 .spicy-noodles {
     background-image: url('./Images/image\ 14.png');
-  }
-  
-  .vegetarian-salad {
-    background-image: url('./Images/Mask\ group.png'); 
-  }
+    background-size: cover;
+    background-position: center;
+}
+
+.vegetarian-salad {
+    background-image: url('./Images/Mask\ group.png');
+    background-size: cover;
+    background-position: center;
+}
